@@ -159,20 +159,13 @@
 <br>
 
 # 📑DB모델링
-
-### 2️⃣ 논리모델링
-![논리모델링이미지](./docs/modeling/논리모델링.png)
-
-### 3️⃣ 물리모델링
-![물리모델링이미지](./docs/modeling/물리모델링.png)
-
 <br>
 
-### 2️⃣ 논리모델링
-<img src="https://github.com/user-attachments/assets/bf47f0ca-7cf4-49d7-92cd-6c14674ebc37" width=700>
+### 1️⃣ 논리모델링
+<img src="https://github.com/user-attachments/assets/bf47f0ca-7cf4-49d7-92cd-6c14674ebc37">
 
-### 3️⃣ 물리모델링
-<img src="https://github.com/user-attachments/assets/cdc3f2e9-83c3-4612-ba14-2028e9f8e311" width=700>
+### 2️⃣ 물리모델링
+<img src="https://github.com/user-attachments/assets/cdc3f2e9-83c3-4612-ba14-2028e9f8e311">
 <br>
 
 
@@ -854,9 +847,9 @@
 
 <br>
 
-## 결과화면
+## 📍 결과화면
 
-### Category
+### 🫧 Category
 
 <details>
    <summary>카테고리 등록</summary>
@@ -873,7 +866,7 @@
    <img src="docs/result/admin/카테고리삭제-1.gif" width=700>
 </details>
 
-### Comment
+### 🫧 Comment
 <details>
    <summary>댓글쓰기</summary>
    <img src="docs/result/admin/댓글쓰기.gif" width=700>
@@ -921,7 +914,7 @@
    <img src="docs/result/admin/회원 로그아웃-1.gif" width=700>
 </details>
 
-### Myactivity
+### 🫧 Myactivity
 
 <details>
    <summary>내가 작성한 댓글 조회</summary>
@@ -1012,7 +1005,7 @@
    <img src="docs/result/admin/템플릿최신순.gif" width=700>
 </details>
 
-### Setting
+### 🫧 Setting
 
 <details>
    <summary>회원 설정페이지 조회</summary>
